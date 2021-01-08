@@ -68,7 +68,7 @@ const addFilm = () => {
           case "Whisper of the Heart":
             return "https://m.media-amazon.com/images/M/MV5BZDg0MWNmNjktMGEwZC00ZDlmLWI1MTUtMDBmNjQzMWM2NjBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg";
           case "My Neighbors the Yamadas":
-            return "https://static.wikia.nocookie.net/dubbing9585/images/f/fa/My-neighbors-the-yamadas-poster.jpg/revision/latest?cb=20171223052252";
+            return "https://loftcinema.org/files/2013/04/my-neighbour-the-yamadas-poster-studio-ghibli-s-daily-family-crisis-my-neighbors-the-yamadas-1999-jpeg-145409.jpg";
           case "Spirited Away":
             return "https://lwlies.com/wp-content/uploads/2016/06/Spirited-Away-movie-poster-1020340447-900x0-c-default.jpg";
           case "The Cat Returns":
