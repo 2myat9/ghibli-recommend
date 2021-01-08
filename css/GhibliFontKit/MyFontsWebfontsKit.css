@@ -1,0 +1,34 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3994180, 2021-01-06T21:43:33-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Ghibli-Bold by Eyad Al-Samman
+ * URL: https://www.myfonts.com/fonts/alsamman/ghibli/bold/
+ * 
+ * Webfont: Ghibli by Eyad Al-Samman
+ * URL: https://www.myfonts.com/fonts/alsamman/ghibli/regular/
+ * 
+ * 
+ * Webfonts copyright: Copyright &amp;#x00A9; 2015 Eyad Al-Samman&#x27;s Typography, All Rights Reserved. :: alsammanworld@yahoo.ca
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+
+  
+@font-face {
+  font-family: 'Ghibli';
+  src: url('webFonts/Ghibli/font.woff2') format('woff2'), url('webFonts/Ghibli/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Ghibli-Bold';
+  src: url('webFonts/Ghibli-Bold/font.woff2') format('woff2'), url('webFonts/Ghibli-Bold/font.woff') format('woff');
+}
+
