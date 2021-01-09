@@ -9,6 +9,8 @@ This is written in vanilla HTML, CSS, and JS.
 
 I used [Studio Ghibli API](https://ghibliapi.herokuapp.com/) to get the data for my project.
 
+Preview: https://ghibli-recommend.netlify.app/
+
 ### What I learned from this project
 
 1. **Posters**: Unfortunately, the API doesn't return film poster images so I handled them manually, which was possible because the total number of films was only 20. I handled them using switch cases in Javascript.
